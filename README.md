@@ -1,4 +1,9 @@
 Thoughts and prayers
 
-- [Test Post](https://blog.0xmmo.co/2025/02/11/TEST-POST)
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
