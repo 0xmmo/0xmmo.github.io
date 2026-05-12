@@ -1,2 +1,32 @@
 title: Mohamed Moustafa
 description: Thoughts
+
+url: https://blog.0xmmo.co
+author:
+  name: Mohamed Moustafa
+  url: https://mmoustafa.com
+
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Default layout for everything in _posts/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - _scripts/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md

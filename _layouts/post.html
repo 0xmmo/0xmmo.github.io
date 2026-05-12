@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<span class="eyebrow">{% if page.icon %}{{ page.icon }}&nbsp;&nbsp;{% endif %}Essay</span>
+<h1 class="title">{{ page.title }}</h1>
+<div class="meta-row">{{ page.date | date: "%B %-d, %Y" }}</div>
+<article class="post-body">
+  {{ content }}
+</article>
