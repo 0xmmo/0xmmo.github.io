@@ -19,16 +19,17 @@ A real example: a personal AI assistant keeps a user profile (the object) in cha
 
 
 ```javascript
-
 {
-	name: "updateUserProfile"
-	parameters: {
-		firstName: { type: "string" },
-		primaryLanguage: { type: "string" },
-		residenceCityAndState: { type: "string" },
-		reasoningForUpdates: { type: "array", items: { type: "string" } } // injected
-	required: ["reasoningForUpdates"] // injected
-},
+  name: "updateUserProfile",
+  parameters: {
+    firstName: { type: "string" },
+    primaryLanguage: { type: "string" },
+    residenceCityAndState: { type: "string" },
+    // injected:
+    reasoningForUpdates: { type: "array", items: { type: "string" } },
+    required: ["reasoningForUpdates"],
+  },
+}
 ```
 
 Say I mention I live in San Francisco. My profile gets `residenceCityAndState: "San Francisco, CA"` and the trace left behind is `"User asked about San Francisco residential parking permits"`.
