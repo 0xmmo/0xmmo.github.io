@@ -9,6 +9,11 @@ title: Thoughts
 </p>
 
 <ul class="post-list">
+  <li>
+    <a class="post-title" href="{{ '/forensics/post.html' | relative_url }}">Small Model Forensics</a>
+    <span class="post-meta">May 13, 2026</span>
+    <span class="post-excerpt">Claude and I made 2,000 API calls to nine small closed-weight models across three providers, discovering some interesting things about how providers scale...</span>
+  </li>
   {% for post in site.posts %}
     <li>
       <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
