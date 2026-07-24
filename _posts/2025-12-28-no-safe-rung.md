@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "We're not replacing junior SWEs. We're replacing every SWE."
+title: "No Safe Rung"
 date: 2025-12-28 12:00:00 +0000
 icon: 🪜
 excerpt: "The prevailing narrative implies a ceiling — that somewhere on the seniority ladder there's a rung where humans become irreplaceable. There isn't."
 ---
 
-*Including me, a senior engineer for multiple YC companies.*
+*We're not replacing junior SWEs. We're replacing every SWE. Including me, a senior engineer for multiple YC companies.*
 
 ---
 
