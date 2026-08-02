@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Putting everything on a scale of 0-10"
+title: "Put everything on a scale of 0-10"
 date: 2026-08-01 22:41:59 +0000
 icon: 🔟
 excerpt: "I open the weather app. 143 AQI. I don't know what that means. Oh, it's orange-red. I don't know what that means either."
