@@ -5,7 +5,7 @@ title: Thoughts
 
 <h1 class="title">Thoughts</h1>
 <p class="home-intro">
-  Notes by <a href="https://mmoustafa.com">Mohamed Moustafa</a>.
+  Notes by <a href="https://mmoustafa.com">Mo Moustafa</a>.
 </p>
 
 <ul class="post-list">

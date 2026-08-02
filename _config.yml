@@ -1,9 +1,9 @@
-title: Mohamed Moustafa
+title: Mo Moustafa
 description: Thoughts
 
 url: https://blog.0xmmo.co
 author:
-  name: Mohamed Moustafa
+  name: Mo Moustafa
   url: https://mmoustafa.com
   twitter: 0xmmo
 
@@ -12,7 +12,7 @@ twitter:
 
 # Emits sameAs in the JSON-LD, tying this site to the mmoustafa.com identity
 social:
-  name: Mohamed Moustafa
+  name: Mo Moustafa
   links:
     - https://mmoustafa.com
     - https://github.com/0xmmo
