@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect
 title: "Preventing agent doom loops with per-object reasoning traces"
 date: 2025-11-27 21:16:52 +0000
 icon: 🕵️

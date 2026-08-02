@@ -1,0 +1,14 @@
+{%- assign target = page.url | prepend: "https://mmoustafa.com/blog" -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Moved — {{ page.title | default: "Thoughts" }}</title>
+<link rel="canonical" href="{{ target }}">
+<meta http-equiv="refresh" content="0; url={{ target }}">
+</head>
+<body>
+<p>This moved to <a href="{{ target }}">{{ target }}</a>.</p>
+<script>location.replace({{ target | jsonify }});</script>
+</body>
+</html>

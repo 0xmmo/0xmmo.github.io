@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect
 title: "Put everything on a scale of 0-10"
 date: 2026-08-01 22:41:59 +0000
 icon: 🔟

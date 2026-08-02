@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect
 title: "Cold Drinks and Paper Cups"
 date: 2025-10-17 23:20:15 +0000
 icon: 🥤

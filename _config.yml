@@ -32,11 +32,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: redirect
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 exclude:
   - _scripts/
