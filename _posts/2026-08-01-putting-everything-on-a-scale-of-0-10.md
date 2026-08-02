@@ -20,7 +20,7 @@ The UV index is a great example. There is no physical unit called "one UV". You 
 - 8-10 stay inside
 - 10+ extreme
 
-Well, many more values humans encounter in their daily environment should be made *useful to humans*. Let's start with AQI (Air Quality Index), they got so close and made an index. But decided it should be 0-500 AND the midpoint is objectively "very bad". Then dBs, a number I've only ever seen between 50 and 80 but have never once acted on. Let's make them 0-10.
+Well, many more values humans encounter in their daily environment should be made *useful to humans*. Let's start with AQI (Air Quality Index). They made an index, but decided on a range of 0-500 AND a midpoint of 250 is objectively already "very bad". Then dBs, a number I've only ever seen between 50 and 80 but have never once acted on. Let's make them 0-10.
 
 Even better, let's anchor the *meaning* of the numbers between those different phenomena we're measuring.
 
