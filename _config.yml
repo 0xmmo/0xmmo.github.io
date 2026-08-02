@@ -6,6 +6,18 @@ author:
   name: Mohamed Moustafa
   url: https://mmoustafa.com
 
+twitter:
+  username: 0xmmo
+
+# Emits sameAs in the JSON-LD, tying this site to the mmoustafa.com identity
+social:
+  name: Mohamed Moustafa
+  links:
+    - https://mmoustafa.com
+    - https://github.com/0xmmo
+    - https://www.linkedin.com/in/0xmmo/
+    - https://x.com/0xmmo
+
 permalink: /:year/:month/:day/:title/
 
 markdown: kramdown
@@ -23,6 +35,7 @@ defaults:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - _scripts/
