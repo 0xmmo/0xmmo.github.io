@@ -10,9 +10,9 @@ I open the weather app. 143 AQI. I don't know what that means. Oh, it's orange-r
 
 Here's my proposal.
 
-Most environmental quantities would be better off with a well-defined 0-10 index. Oh, it's an unbounded measure? Well yes, that's how most numbers work. Let it exceed 10 in those rare cases. Let me explain.
+Most environmental quantities would be better off with a **0-10 index**. Oh, it's an unbounded measure? Well yes, that's how most numbers work. Let it exceed 10 in those rare cases. Let me explain.
 
-The UV index is a great example. There is no physical unit called "one UV". You take the UV irradiance spectrum and weight each wavelength by how much it actually burns skin. Because raw energy didn't mean damage (325nm is 0.3% as harmful as 295nm, and short stuff never reaches the ground at all) the science folk in charge had an epiphany: we should focus on making these numbers *useful to humans*. So they quantified damage, then chose a divisor that lands the values on a human scale:
+The UV index is a great example. There is no physical unit called "one UV". You take the UV irradiance spectrum and weight each wavelength by how much it actually burns skin. Because raw energy didn't mean damage (325nm is 0.3% as harmful as 295nm, and short stuff never reaches the ground at all) the science folk in charge had an epiphany: we should focus on making these numbers *useful to humans*. So they quantified damage, then chose a divisor that lands the values on a human scale. More than anything, it's *actionable*:
 
 - 0-3 you're fine, go outside
 - 3-6 shirt, sunscreen
