@@ -26,7 +26,7 @@ Even better, let's anchor the *meaning* of the numbers between those different p
 
 - 0-3 not bad
 - 3-6 concerning
-- 6-8 high
+- 6-8 bad
 - 8-10 very bad
 - 10+ extreme
 
