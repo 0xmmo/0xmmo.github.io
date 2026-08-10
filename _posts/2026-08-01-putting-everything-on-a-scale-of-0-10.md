@@ -12,7 +12,7 @@ Here's my proposal.
 
 Most environmental quantities would be better off reported on a **0-10 scale**. Oh, it's an unbounded measure? Let it exceed 10 in those rare cases. Let me explain.
 
-The UV index is a great example. There is no physical unit called "one UV". You take the UV irradiance spectrum and weight each wavelength by how much it actually burns skin. Because raw energy didn't mean damage (325nm is 0.3% as harmful as 295nm, and short stuff never reaches the ground at all) the science folk in charge had an epiphany: we should focus on making these numbers *useful to humans*. So they quantified damage, then chose a divisor that lands the values on a human scale. More than anything, it's *actionable*:
+The UV index is a great example. There is no physical unit called "one UV". You take the UV irradiance spectrum and weight each wavelength by how much it actually burns skin. Because raw energy didn't mean damage (325nm is 0.3% as harmful as 295nm, and short stuff never reaches the ground at all) the science folk had to come up with a different scale, and in the process had an epiphany: we should focus on making these numbers *useful to humans*. So they quantified damage, then chose a divisor that lands the values on a human scale. More than anything, it's *actionable*:
 
 - 0-3 you're fine, go outside
 - 3-6 shirt, sunscreen
